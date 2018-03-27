@@ -7,27 +7,32 @@ Reference.
 2. http://www.pencilsquaregames.com/getting-steamvr-tracking-data-in-unity-without-a-hmd/
 
 ------------------------------------------------------------
-
+  
 StreanVR (WIN 10) - OpenVR  
 Step 1: 路徑 C:\Program Files (x86)\Steam\logs\vrserver.txt  
 找出 vrsettings 位置  
+
+```
 [Settings] ... C:\Program..\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings  
 [Settings] ... C:\Program..\Steam\steamapps\common\SteamVR\drivers\htc\resources\settings\default.vrsettings  
 [Settings] ... C:\Program..\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings  
 [Settings] ... C:\Program..\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings  
 [Settings] ... C:\Program..\Steam\config\steamvr.vrsettings  
+```
 
 Step2: 修改 resources\settings\default.vrsetting  
 將內容修改成  
 
+```
 "requireHmd" : false  
 "forcedDriver" : "null"  
 "activateMultipleDrivers" : true  
-
+```
 
 Step3: 修改 null\resources\settings\default.vrsettings  
 將內容修改成  
 
+```
 {
 	"driver_null" : {
 		"enable" : true,
@@ -43,6 +48,9 @@ Step3: 修改 null\resources\settings\default.vrsettings
 		"displayFrequency" : 90.0
 	}
 }
+```
+
+
 
 完成後 SteamVR圖示會變更.  
 
