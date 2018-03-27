@@ -49,10 +49,9 @@ Step3: 修改 null\resources\settings\default.vrsettings
 	}
 }
 ```
-
-
-
+  
 完成後 SteamVR圖示會變更.  
+<img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/SteamvrWithoutHMD.png" /></a>
 
 Step4: Unity OpenVR 調整  
 開啟 Unity, 將 SteamVR Camera 的Target eye 改為 none,  
