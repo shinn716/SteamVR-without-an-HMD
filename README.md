@@ -1,6 +1,6 @@
 # SteamVR-without-an-HMD
 
-SteamVR Tracking without an HMD
+SteamVR Tracking without an HMD (Only use VIVE Tracker)
 
 Reference.
 1. http://help.triadsemi.com/steamvr-tracking/steamvr-tracking-without-an-hmd
