@@ -59,6 +59,7 @@ Step4: Unity OpenVR 調整
 Tracker1, Tracker2 的 index 改為 1 跟 2.   
   
 <img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/Snipaste_2018-04-02_12-03-26.png" /></a>  
+<img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/Snipaste_2018-04-30_14-27-04.png" /></a>  
 <img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/Snipaste_2018-04-02_12-03-11.png" /></a>   
   
 VIVE 頭盔 跟 手把 兩個皆可不使用.  
