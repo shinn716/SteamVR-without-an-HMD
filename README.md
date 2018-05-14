@@ -1,15 +1,9 @@
 # SteamVR-without-an-HMD
 
-SteamVR Tracking without an HMD (Only use VIVE Tracker)
-
-Reference.
-1. http://help.triadsemi.com/steamvr-tracking/steamvr-tracking-without-an-hmd
-2. http://www.pencilsquaregames.com/getting-steamvr-tracking-data-in-unity-without-a-hmd/
-
-------------------------------------------------------------
+SteamVR Tracking without an HMD (Only use VIVE Tracker)  
+StreamVR (WIN 10) - OpenVR   
   
-StreanVR (WIN 10) - OpenVR  
-Step 1: 路徑 C:\Program Files (x86)\Steam\logs\vrserver.txt  
+Step 1: 路徑 C:\Program Files (x86)\Steam\logs\vrserver.txt  
 找出 vrsettings 位置  
 
 ```
@@ -64,3 +58,8 @@ Tracker1, Tracker2 的 index 改為 1 跟 2.
   
 VIVE 頭盔 跟 手把 兩個皆可不使用.  
 只使用Tracker.  
+  
+  
+### Reference.
+1. http://help.triadsemi.com/steamvr-tracking/steamvr-tracking-without-an-hmd
+2. http://www.pencilsquaregames.com/getting-steamvr-tracking-data-in-unity-without-a-hmd/
