@@ -3,7 +3,6 @@
 SteamVR Tracking without an HMD (Only use VIVE Tracker)  
 StreamVR (WIN 10) - OpenVR   
   
-------------------------
   
 Step 1: 路徑 C:\Program Files (x86)\Steam\logs\vrserver.txt  
 找出 vrsettings 位置  
