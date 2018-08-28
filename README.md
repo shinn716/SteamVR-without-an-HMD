@@ -58,7 +58,17 @@ Tracker1, Tracker2 的 index 改為 1 跟 2.
   
 VIVE 頭盔 跟 手把 兩個皆可不使用.  
 只使用Tracker.  
+
+
+
+### Issue
+1. Tracker 按鈕無法使用  
+日期 20180828  
+解決方法:    
+<img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/Snipaste_2018-08-28_14-51-15.png" /></a>
+https://steamcommunity.com/app/250820/discussions/6/1759104780482398473/
   
+<img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/Snipaste_2018-08-28_14-47-25.png" /></a>
   
 ### Reference.
 1. http://help.triadsemi.com/steamvr-tracking/steamvr-tracking-without-an-hmd
