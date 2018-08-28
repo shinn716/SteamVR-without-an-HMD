@@ -3,6 +3,8 @@
 SteamVR Tracking without an HMD (Only use VIVE Tracker)  
 StreamVR (WIN 10) - OpenVR   
   
+------------------------
+  
 Step 1: 路徑 C:\Program Files (x86)\Steam\logs\vrserver.txt  
 找出 vrsettings 位置  
 
@@ -61,11 +63,13 @@ VIVE 頭盔 跟 手把 兩個皆可不使用.
   
   
 ### Reference.
+------------------------
 1. http://help.triadsemi.com/steamvr-tracking/steamvr-tracking-without-an-hmd
 2. http://www.pencilsquaregames.com/getting-steamvr-tracking-data-in-unity-without-a-hmd/
   
   
 ### Issue
+------------------------
 1. Tracker 按鈕無法使用  
 日期 20180828  
 解決方法:    
