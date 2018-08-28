@@ -66,7 +66,7 @@ VIVE 頭盔 跟 手把 兩個皆可不使用.
 日期 20180828  
 解決方法:    
 <img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/Snipaste_2018-08-28_14-51-15.png" /></a>
-https://steamcommunity.com/app/250820/discussions/6/1759104780482398473/
+https://steamcommunity.com/app/250820/discussions/6/1759104780482398473/  
   
 <img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/Snipaste_2018-08-28_14-47-25.png" /></a>
   
