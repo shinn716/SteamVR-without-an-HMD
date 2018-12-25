@@ -1,13 +1,12 @@
 # SteamVR-without-an-HMD
   
-### Its not availble now..
-不支援 SteamVR 2.0  
-2018/10 月後無法使用  
-  
-  
+Its not availble now..
+-----------------------------
+Not support SteamVR 2.0  
    
    
 SteamVR Tracking without an HMD (Only use VIVE Tracker)  
+-----------------------------
 StreamVR (WIN 10) - OpenVR   
   
   
