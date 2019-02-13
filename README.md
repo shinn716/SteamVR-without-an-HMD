@@ -1,8 +1,10 @@
 # SteamVR-without-an-HMD
   
-Its not availble now..
------------------------------
 Not support SteamVR 2.0  
+-----------------------------
+You need rollback to "v1527117754 - 6/21/2018 hotfix" SteamVR version.  
+You can see here.  
+https://github.com/mmorselli/Joy2OpenVR  
    
    
 SteamVR Tracking without an HMD (Only use VIVE Tracker)  
