@@ -1,14 +1,12 @@
-# SteamVR-without-an-HMD
-  
 Not support SteamVR 2.0  
------------------------------
+-
 You need rollback to "v1527117754 - 6/21/2018 hotfix" SteamVR version.  
 You can see from https://github.com/mmorselli/Joy2OpenVR  
 Test success in 20190213.  
 <img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/Snipaste_2019-02-13_10-43-25.png" /></a>  
   
 SteamVR Tracking without an HMD (Only use VIVE Tracker)  
------------------------------
+-
 StreamVR (WIN 10) - OpenVR   
   
   
@@ -69,14 +67,14 @@ VIVE 頭盔 跟 手把 兩個皆可不使用.
 只使用Tracker.  
   
   
-### Reference.
-------------------------
+Reference.
+-
 1. http://help.triadsemi.com/steamvr-tracking/steamvr-tracking-without-an-hmd
 2. http://www.pencilsquaregames.com/getting-steamvr-tracking-data-in-unity-without-a-hmd/
   
   
-### Issue
-------------------------
+Issue
+-
 1. Tracker 按鈕無法使用  
 日期 20180828  
 解決方法:    
