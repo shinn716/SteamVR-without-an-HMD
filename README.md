@@ -1,4 +1,4 @@
-Not support SteamVR 2.0  
+Not support SteamVR 2.0, old version SteamVR only.  
 -
 You need rollback to "v1527117754 - 6/21/2018 hotfix" SteamVR version.  
 You can see from https://github.com/mmorselli/Joy2OpenVR  
