@@ -3,6 +3,8 @@ Not support SteamVR 2.0, old version SteamVR only.
 You need rollback to "v1527117754 - 6/21/2018 hotfix" SteamVR version.  
 You can see from https://github.com/mmorselli/Joy2OpenVR  
 Test success in 20190213.  
+
+<img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/ezgif.com-optimize.gif"/></a>  
 <img src="https://github.com/shinn716/SteamVR-without-an-HMD/blob/master/Snipaste_2019-02-13_10-43-25.png" /></a>  
   
 SteamVR Tracking without an HMD (Only use VIVE Tracker)  
